@@ -20,6 +20,7 @@ export const counterSlice = createSlice({
       state.value--;
     },
 
+    // Increment based upon a passed in argument
     amountAdded(state, action) {
       state.value += action.payload;
     },

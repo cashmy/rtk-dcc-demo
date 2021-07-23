@@ -3,7 +3,7 @@ import logo from "./logo.svg";
 import "./App.css";
 // import { useSelector, useDispatch } from "react-redux";
 // import { incremented } from "./features/counter/counterSlice";
-import { Counter } from "./features/counter/Counter";
+// import { Counter } from "./features/counter/Counter";
 
 function App() {
   const count = 0;
